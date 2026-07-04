@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.local
+package.json
+vite.config.ts
+supbase/
+dist
+.tmp-test
+.DS_Store
+TEST_RESULTS.md
+bootstrap_users.sql
