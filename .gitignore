@@ -1,8 +1,6 @@
 node_modules
 .env
 .env.local
-vite.config.ts
-supbase/
 dist
 .tmp-test
 .DS_Store
