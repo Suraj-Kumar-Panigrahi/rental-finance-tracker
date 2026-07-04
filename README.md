@@ -1,6 +1,6 @@
 # Rental Finance Tracker
 
-A free-friendly rental finance web app built with:
+A free rental finance web app built with:
 
 - React + Vite + TypeScript
 - Tailwind CSS
